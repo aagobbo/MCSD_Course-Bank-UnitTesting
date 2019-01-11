@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BKG.Banco.Dominio", "BKG.Banco.Dominio\BKG.Banco.Dominio.csproj", "{4EBE1B0D-F125-4C1A-93F4-1B5D3CE525E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BKG.Banco.Test.Unit", "BKG.Banco.Test.Unit\BKG.Banco.Test.Unit.csproj", "{4BEC5001-354B-4FD8-A28C-6A364EA923F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBE1B0D-F125-4C1A-93F4-1B5D3CE525E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBE1B0D-F125-4C1A-93F4-1B5D3CE525E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBE1B0D-F125-4C1A-93F4-1B5D3CE525E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBE1B0D-F125-4C1A-93F4-1B5D3CE525E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEC5001-354B-4FD8-A28C-6A364EA923F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEC5001-354B-4FD8-A28C-6A364EA923F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEC5001-354B-4FD8-A28C-6A364EA923F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEC5001-354B-4FD8-A28C-6A364EA923F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC96F2B3-3483-4533-9A7A-1A82AA119BC0}
+	EndGlobalSection
+EndGlobal
